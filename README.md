@@ -18,8 +18,5 @@ This is an AI-based racing game controlled using hand gestures instead of a keyb
 pip install -r requirements.txt  
 python main.py
 
-📸 Output
-(Add screenshots here)
-
 👨‍💻 Author
 Sucharitha Srinivas
